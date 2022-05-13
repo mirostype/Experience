@@ -4,8 +4,8 @@ mirostype@gmail.com\
 
 
 ### experience in iOS development 
-
-
+- 2021 - now: Working on my personal project (OpenAI API is being used as a main fundament of my app) 
+- 2019 - 2021: Intern position wchich lead to the role of the native iOS developer for Albion Computers (improving existing scheduling app for company employees to meet COVID19 restrictions)  
 - 2018 - 2019: Release of my first App on the Appstore (Quiz game)
 - 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 ```markdown
