@@ -14,6 +14,13 @@ mirostype@gmail.com\
 ```
 programming language: Swift 
 
+tools for given  
+iOS 14 & 15 SDK's (especially apriciated by me: SwiftUI, Core ML, Apple Pay) 
+iOS Unit & UI Testing: XCTest,
+Pre release tests: Testflight
+Continuous Integration and delivery: Xcode Cloud & Github Actions 
+
+
 
 
 
