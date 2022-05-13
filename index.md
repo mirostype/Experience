@@ -3,7 +3,7 @@ mirostype@gmail.com\
 +48 730-848-289
 
 
-### experience in iOS development 
+### experience in iOS development job positions: 
 - 2021 - now: Working on my personal project (OpenAI API is being used as a main fundament of my app) 
 - 2019 - 2021: Intern position wchich led to the role of the native iOS developer for Albion Computers (improving existing scheduling app for company employees to meet COVID19 restrictions)  
 - 2018 - 2019: Release of my first App on the Appstore (Quiz game)
@@ -11,6 +11,10 @@ mirostype@gmail.com\
 
 
 ```
+### gained abilities and familiarity with technologies: 
+
+
+
 
 ```
 
