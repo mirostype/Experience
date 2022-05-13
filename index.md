@@ -1,6 +1,6 @@
 ## Mirosław Stypuła 
 mirostype@gmail.com\
-+48 730-848-289\
++48 730-848-289
 
 
 ### Markdown
