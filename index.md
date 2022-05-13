@@ -10,7 +10,6 @@ mirostype@gmail.com\
 - 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 
 **gained abilities and familiarity with technologies:**
-
 ```
 programming language: Swift 
 architecture patterns: VIP,VIPER, (MVC - rarely used for super small apps)
