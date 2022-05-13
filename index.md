@@ -9,7 +9,7 @@ mirostype@gmail.com\
 - 2018 - 2019: Release of my first App on the Appstore (Quiz game)
 - 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 
-**gained abilities and familiarity with technologies:**
+### gained abilities and familiarity with technologies:
 ```
 programming language: Swift 
 architecture patterns: VIP,VIPER, (MVC - rarely used for super small apps)
@@ -22,6 +22,6 @@ continuous integration and delivery: Xcode Cloud & Github Actions
 **About me**
 I'm focused only on Apple platform. Passionate about their hardware and also software solutions. Im an Ex-Apple technician, but stil angaged in the service community. 
 
-**Personal "sidehustles"**\
+**Personal "sidehustles":**\
 https://nowy-iphone.surge.sh/ \
 https://janusze-biznesu.surge.sh
