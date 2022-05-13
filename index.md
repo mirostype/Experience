@@ -13,12 +13,13 @@ mirostype@gmail.com\
 
 ```
 programming language: Swift 
-
+architecture patterns: VIP,VIPER, (MVC - rarely used for super small apps)
 tools used at any development stage:
 iOS 14 & 15 SDK's (especially apriciated by me: SwiftUI, Core ML, Apple Pay) 
 iOS Unit & UI Testing: XCTest,
-Pre release tests: Testflight
-Continuous Integration and delivery: Xcode Cloud & Github Actions 
+pre release tests: Testflight
+continuous integration and delivery: Xcode Cloud & Github Actions 
+
 
 
 
