@@ -19,6 +19,9 @@ iOS Unit & UI Testing: XCTest,
 pre release tests: Testflight
 continuous integration and delivery: Xcode Cloud & Github Actions 
 ```
+**About me**
+I'm focused only on Apple platform. Passionate about their hardware and also software solutions. Im an Ex-Apple technician, but stil angaged in the service community. 
 
-
-
+**Personal "sidehustles"**
+https://nowy-iphone.surge.sh/
+https://janusze-biznesu.surge.sh
