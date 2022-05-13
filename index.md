@@ -9,13 +9,10 @@ mirostype@gmail.com\
 - 2018 - 2019: Release of my first App on the Appstore (Quiz game)
 - 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 
-
-```
 **gained abilities and familiarity with technologies:**
 
-
-
-
 ```
+```
+
 
 
