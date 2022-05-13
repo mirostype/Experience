@@ -12,8 +12,8 @@ mirostype@gmail.com\
 **gained abilities and familiarity with technologies:**
 
 ```
-**programming language:**
-Swift
+programming language: Swift 
+
 
 
 
