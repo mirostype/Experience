@@ -19,13 +19,6 @@ iOS 14 & 15 SDK's (especially apriciated by me: SwiftUI, Core ML, Apple Pay)
 iOS Unit & UI Testing: XCTest,
 pre release tests: Testflight
 continuous integration and delivery: Xcode Cloud & Github Actions 
-
-
-
-
-
-
-
 ```
 
 
