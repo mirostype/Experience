@@ -11,7 +11,7 @@ mirostype@gmail.com\
 
 
 ```
-### gained abilities and familiarity with technologies: 
+**gained abilities and familiarity with technologies:**
 
 
 
