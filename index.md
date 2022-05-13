@@ -3,10 +3,8 @@ mirostype@gmail.com\
 +48 730-848-289
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### experience in iOS development 
+- 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 ```markdown
 Syntax highlighted code block
 
