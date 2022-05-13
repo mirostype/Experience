@@ -4,6 +4,9 @@ mirostype@gmail.com\
 
 
 ### experience in iOS development 
+
+
+- 2018 - 2019: Released my first App on the Appstore (Quiz game)
 - 2018: Apple coding academy (passed online tests, went to the bootcamp test, finished in the middle of more than 1k participants) 
 ```markdown
 Syntax highlighted code block
