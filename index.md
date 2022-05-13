@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Mirosław Stypuła 
+mirostype@gmail.com
++48 730-848-289
+LinkedIn:
 
-You can use the [editor on GitHub](https://github.com/mirostype/Experience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
